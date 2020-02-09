@@ -8,6 +8,12 @@ with open('channels') as channels:
 matches = [m.group(1) for m in matches if m]
 mapping = {k: k.replace(" ", "").replace("|","").lower() for k in matches if k }
 
+add = {
+    'CT 1 SM HD T2': 'ct1hdt2',
+}
+
+mapping.update(add)
+
 for tgt, src in mapping.items():
     if os.path.isfile(f"{src}.png"):
         print(f"linking: {src}")
