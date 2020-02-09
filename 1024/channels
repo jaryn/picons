@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/ABC%20TV.png" tvg-id="dcfd8d763e12a0689a3d38b3e1a4a647",ABC TV
+http://raspberrypi.lan:9981/stream/channelid/1989017052?ticket=64A460B3E677E1709411E09000B9E70E869C8E4A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/ABC%20TV%20_%20T2.png" tvg-id="f9e35825b9729ed17850892942565a3f",ABC TV | T2
+http://raspberrypi.lan:9981/stream/channelid/626582521?ticket=CBC4EB13D3F012641C1B762BB965A8885775C76E&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Barrandov%20KRIMI.png" tvg-id="bbc567ae88d16cfd6dfb3ee176664560",Barrandov KRIMI
+http://raspberrypi.lan:9981/stream/channelid/778552763?ticket=7AAD35974F0501CE67404168F2778E7C3A07A4E1&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Barrandov%20KRIMI%20_%20P.png" tvg-id="c0d5a47a1cd2d9a94f49e36b211bea31",Barrandov KRIMI | P
+http://raspberrypi.lan:9981/stream/channelid/2057622976?ticket=335672F7D1352FD7954434633738F221D385E1D3&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Barrandov%20News.png" tvg-id="be659b55535191de7b746572a280a690",Barrandov News
+http://raspberrypi.lan:9981/stream/channelid/1436247486?ticket=AB9557A7E52A912E57FB4CAA8258CFE94CA86324&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/BARRANDOV%20TV.png" tvg-id="5f3ba63fbb724e130c66db7f23a9c75b",BARRANDOV TV
+http://raspberrypi.lan:9981/stream/channelid/1067858783?ticket=F9A3D5ED600FA0293FDA3A8978C80A2AD28D65D3&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/BARRANDOV%20TV%20_%20P.png" tvg-id="e1e3e48f5875a6a8130a41ff95c2c4cd",BARRANDOV TV | P
+http://raspberrypi.lan:9981/stream/channelid/266658785?ticket=C4DCF915A7B2E32A7A865F73E4DB83F8D5CB72F4&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CNN%20Prima%20News.png" tvg-id="a75686ffe1115ce4c48c18fb2b135219",CNN Prima News
+http://raspberrypi.lan:9981/stream/channelid/2139510439?ticket=F91752990A329D95AADE0F5A5C240AAD7F2B6C63&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CNN%20Prima%20News%20_%20T2.png" tvg-id="3fe1f05288fb15946042dabd307cf5d4",CNN Prima News | T2
+http://raspberrypi.lan:9981/stream/channelid/1391518015?ticket=AC2D700DEA5B7BF28A07CEBEEDE91806A1CC4E06&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20D-DUR.png" tvg-id="23ee3805173ff0ac16e593f6ab2aa546",CRo D-DUR
+http://raspberrypi.lan:9981/stream/channelid/87617059?ticket=CF8CDCA696D3C5FBDD42FFBCA6010AB6A89CBB6A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20D-DUR.png" tvg-id="54ea553e6c195b0c60c9e939fa2cf39d",CRo D-DUR
+http://raspberrypi.lan:9981/stream/channelid/1045817940?ticket=F677AE10D57B90BA14563CE9E714B5321986E31C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20D-DUR%20T2.png" tvg-id="e0b8d5b58e4a1a354d8efd72103ff275",CRo D-DUR T2
+http://raspberrypi.lan:9981/stream/channelid/903198944?ticket=8D2C73CBF1693507BBB987F79C8D7DAC95B1761E&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20DVOJKA.png" tvg-id="e42390d2949758a4a4a716f1b88f385d",CRo DVOJKA
+http://raspberrypi.lan:9981/stream/channelid/1385178084?ticket=8A6EB24C765D92F195B76E6C0FDBE837C1A7F738&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20DVOJKA%20T2.png" tvg-id="65e47ab1267fdca2bbf2c87f7c33c04b",CRo DVOJKA T2
+http://raspberrypi.lan:9981/stream/channelid/830137445?ticket=8C1AAC43D4B5D907BEA2F9164F6D6652B09CCBF2&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20JAZZ.png" tvg-id="bd6ff1fdce418183670e9dc5e8982d57",CRo JAZZ
+http://raspberrypi.lan:9981/stream/channelid/2112974781?ticket=8D589BFC69E1A3534494F159605EF168424B7129&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20JAZZ%20T2.png" tvg-id="134c0343878dc0993c98389afcd8cef8",CRo JAZZ T2
+http://raspberrypi.lan:9981/stream/channelid/1124289555?ticket=BCF7D111D58AB6F1A1B42150081364681C3A28AC&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20PLUS.png" tvg-id="915be5b930e83057939f530e7d8ead46",CRo PLUS
+http://raspberrypi.lan:9981/stream/channelid/971332497?ticket=DEFD3E0E256B3B2C807DB23FC08D4649B940A0AC&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20PLUS%20T2.png" tvg-id="921eac38a06b5d8432f1ccf913822c13",CRo PLUS T2
+http://raspberrypi.lan:9981/stream/channelid/950804114?ticket=55418C8E03471FE3C7A01D69E95E2DA4D482EA38&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIO%20JUNIOR.png" tvg-id="504206d6efe57733d4573a6699c18ca7",CRo RADIO JUNIOR
+http://raspberrypi.lan:9981/stream/channelid/1443250768?ticket=9730E33DE206D7E1794C9944AC0260F95B6EDA9F&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIO%20JUNIOR%20T2.png" tvg-id="a56cac410632b85e3d880c9cc795f4c7",CRo RADIO JUNIOR T2
+http://raspberrypi.lan:9981/stream/channelid/1101819045?ticket=DAE6A4E8BFC8AA1D1F51AEB35FDC023B2258C0DC&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIO%20WAVE.png" tvg-id="7fcbedb337177f27388a0bd954889937",CRo RADIO WAVE
+http://raspberrypi.lan:9981/stream/channelid/871222143?ticket=74D82988585F85FF004A1118118AB46E3CEB6A56&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIO%20WAVE%20T2.png" tvg-id="7f1af4ee79de1988800e6a1a71d2c5d5",CRo RADIO WAVE T2
+http://raspberrypi.lan:9981/stream/channelid/1861491327?ticket=40C5C3B8AD45BEAAFDA056A5986996958020014C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIOZURNAL.png" tvg-id="d2c748202ee513d93ec0cd7f0a5dbb53",CRo RADIOZURNAL
+http://raspberrypi.lan:9981/stream/channelid/541640658?ticket=151AE696ED2D0D9D3F2A4BC9888EE51E298ED012&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20RADIOZURNAL%20T2.png" tvg-id="076e83f546620219588e4489bc542990",CRo RADIOZURNAL T2
+http://raspberrypi.lan:9981/stream/channelid/1971547655?ticket=EB1675149E789D5908479B3578CBCD0A00DED23A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20VLTAVA.png" tvg-id="8d6a358762a082682bead2cf8f259bec",CRo VLTAVA
+http://raspberrypi.lan:9981/stream/channelid/120941197?ticket=5B5B6455571EED85F9DD76C87F76020E7B8F30DE&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CRo%20VLTAVA%20T2.png" tvg-id="383ebd4f64173094f08698f84ca17e5e",CRo VLTAVA T2
+http://raspberrypi.lan:9981/stream/channelid/1337802296?ticket=394B7DDD6AE335274825FFFA40573BFFE6ABE988&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CS%20Mystery.png" tvg-id="281a66e1acbe135bf01eeca0e6efe7c2",CS Mystery
+http://raspberrypi.lan:9981/stream/channelid/1634081320?ticket=4AACD0BFE50D209CBB52FD89098F279B5D76126C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CS%20Mystery%20_%20T2.png" tvg-id="4dceb28ba331df8cc74f97b7ab409b57",CS Mystery | T2
+http://raspberrypi.lan:9981/stream/channelid/196267597?ticket=7A9AC75BDEFDA5B22020FF521657A6D17977BBAC&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%201%20JM.png" tvg-id="4a40172ad911bca038703dfb699feba1",CT 1 JM
+http://raspberrypi.lan:9981/stream/channelid/706166858?ticket=5C8A331E1554946A1D024C6FEB7F6F5EDC82FA0F&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%201%20JM%20HD%20T2.png" tvg-id="f7dffa56aaee9de612a79a9ca8440b5d",CT 1 JM HD T2
+http://raspberrypi.lan:9981/stream/channelid/1459281911?ticket=AF9513CF694A8A22E5F7BBCB9C177D4E9CD47843&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%201%20SM.png" tvg-id="443d6f7e979e8c5889938096f96e71a2",CT 1 SM
+http://raspberrypi.lan:9981/stream/channelid/2121219396?ticket=421AA6B8184ECB627D3CA235B9FD1756CB2DE443&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%2024.png" tvg-id="90c8cb764fb2ae5c581ef5a449a2a339",CT 24
+http://raspberrypi.lan:9981/stream/channelid/1993066640?ticket=417BA1883EB13A327D216CBEBE27D7ABA3DB7D24&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%20_D-art.png" tvg-id="f44b7aa487393da79ca04cf3ef33514d",CT :D/art
+http://raspberrypi.lan:9981/stream/channelid/611994612?ticket=5CE2594CF9AA082CFB52E98F584A7A37C610FD50&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%20_D-art%20HD%20T2.png" tvg-id="d247c7800e885a1e031eb370d4282b56",CT :D/art HD T2
+http://raspberrypi.lan:9981/stream/channelid/13060050?ticket=0596D7B135E57BD64D41A4956B3A72EDBDABE110&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/GALERIE.png" tvg-id="1af2310289761db02e47db81d28ba296",GALERIE
+http://raspberrypi.lan:9981/stream/channelid/36827674?ticket=A7B014BFA90830B3FB27587D0EC21D27FCB10AE7&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/GALERIE%20_%20T2.png" tvg-id="b86a4d27847ff503f873b611dddb44ee",GALERIE | T2
+http://raspberrypi.lan:9981/stream/channelid/659385016?ticket=5B76F6653CF21A83122831B386362BC422219295&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/JOJ%20Family%20_%20T2.png" tvg-id="7510f047d9da0567e712c37031aa62e8",JOJ Family | T2
+http://raspberrypi.lan:9981/stream/channelid/1206915189?ticket=D727E48307F579B321630A0A38CC2FE3457CE807&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/JTV%20_%20T2.png" tvg-id="9edf80fd05d9a441d68ff292a1e984b1",JTV | T2
+http://raspberrypi.lan:9981/stream/channelid/2105597854?ticket=FB6150EAF46D44304E68E43651A38398726803BA&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Kino%20Barrandov.png" tvg-id="11208fec40a9bb362a98350718df3002",Kino Barrandov
+http://raspberrypi.lan:9981/stream/channelid/1821319185?ticket=AE9386B0FA96FA79AD9D82DFF51E02B5639CBBC9&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Kino%20Barrandov%20_%20P.png" tvg-id="a00911c5f19d173e9758757b259a2e97",Kino Barrandov | P
+http://raspberrypi.lan:9981/stream/channelid/1158744480?ticket=9DA5CB563BAA5F5614A63764BF9EBD768F5604EF&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/KLENOT%20TV.png" tvg-id="40d033f8c00c37a06f649e71369a075c",KLENOT TV
+http://raspberrypi.lan:9981/stream/channelid/2016661568?ticket=E7BEFC9817B6F3EA1D4A5138810625D3C2353665&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/KLENOT%20TV%20_%20T2.png" tvg-id="eb217ad7326cbd3aceae0eb85a1c7c4e",KLENOT TV | T2
+http://raspberrypi.lan:9981/stream/channelid/1467621867?ticket=31C313D7167368EB171FED9BC4E4A639B76697AA&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/LTV%20PLUS.png" tvg-id="45ad63abbda6126d6363c983a01bdd68",LTV PLUS
+http://raspberrypi.lan:9981/stream/channelid/727952709?ticket=06EF9943846B371A073BC92938DF4A417063820C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Naladte%20se%20na%20DVB-T2.png" tvg-id="22e40c5242dc62ca725272ed79ab1286",Naladte se na DVB-T2
+http://raspberrypi.lan:9981/stream/channelid/1376576546?ticket=447DE110371EBF8847F65212419D782D6A031B76&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Noe%20TV.png" tvg-id="d6d922289a0ea940bbba063504370e34",Noe TV
+http://raspberrypi.lan:9981/stream/channelid/673372630?ticket=2C7CA25530C9653F09BAC0D50772471CBBC2AED2&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Noe%20TV%20HD.png" tvg-id="fa13729137730e9620775119648e87b7",Noe TV HD
+http://raspberrypi.lan:9981/stream/channelid/292688890?ticket=2F4276E529174B373A750796A14BBA3D6EDB2288&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Noe%20TV%20_%20P.png" tvg-id="963f5a2bf7710465e3cc283cc0652b56",Noe TV | P
+http://raspberrypi.lan:9981/stream/channelid/727334806?ticket=D1D5AF860A9718888F9B6FF6680FF15752DF8A51&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/NOVA.png" tvg-id="4c43f18c12bb376b5cbeddcfd32e2261",NOVA
+http://raspberrypi.lan:9981/stream/channelid/217137996?ticket=D5ED88FF664E8924F472FF847CD15692C374ADB9&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Nova%202%20_%20T2.png" tvg-id="6b2a0519ea3971f946d4f6f5dd8960ce",Nova 2 | T2
+http://raspberrypi.lan:9981/stream/channelid/419768939?ticket=DCB2EB678FCD32F90843F4BA156FE1C6F888567B&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Nova%20Action%20_%20T2.png" tvg-id="49f24a3949233c675e7a9b227a1154c1",Nova Action | T2
+http://raspberrypi.lan:9981/stream/channelid/961213001?ticket=96D06D0FD64C34815313F497EF35672BD95EB752&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/NOVA%20CINEMA.png" tvg-id="3df4b2c5ecef8ead84aa6ba5b367bda9",NOVA CINEMA
+http://raspberrypi.lan:9981/stream/channelid/1169355837?ticket=793B797A81CA780953AC327BDFA2A7144BC5AFBA&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/NOVA%20CINEMA%20_%20P.png" tvg-id="88f5f4bc51ac0016af0351b67a304e2d",NOVA CINEMA | P
+http://raspberrypi.lan:9981/stream/channelid/1022686600?ticket=31AC0FA58CD6A0C38E872E5BB2D8833F301CF7E4&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Nova%20Cinema%20_%20T2.png" tvg-id="e12b681230a9105a56a208c967e9f344",Nova Cinema | T2
+http://raspberrypi.lan:9981/stream/channelid/308816865?ticket=6F24F2FFE96ADF2EBAC3573426557288C7F87D1A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Nova%20Gold%20_%20T2.png" tvg-id="e2c909a0a43d328828505f025e99cabb",Nova Gold | T2
+http://raspberrypi.lan:9981/stream/channelid/537512418?ticket=E8F281D26617F38880FEB1EDEFB4A357A1C14421&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/NOVA%20_%20P.png" tvg-id="7ad817923a008631a04974276d9fda66",NOVA | P
+http://raspberrypi.lan:9981/stream/channelid/303552634?ticket=6BF441A6D842045EF4E0F3F0722343EE53057CFE&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Nova%20_%20T2.png" tvg-id="fbbd398101fb69a209cee3ddefd011a4",Nova | T2
+http://raspberrypi.lan:9981/stream/channelid/20561403?ticket=EED486D00D7B49F083B2CBC45DAB4B4FE8D740F8&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Ocko.png" tvg-id="14eab76f77c5e9d83d6bf82afce18256",Ocko
+http://raspberrypi.lan:9981/stream/channelid/1874323988?ticket=9E8D125DE915DF153FED9291309F1A1C73C9DF0C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/OCKO%20EXPRES.png" tvg-id="339bbf360eefb3594e323a88daacbcab",OCKO EXPRES
+http://raspberrypi.lan:9981/stream/channelid/918526771?ticket=43B59F5D7BAB6FF7D01DD81E946BBC7518C59977&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/OCKO%20STAR.png" tvg-id="9f9e8b57a59b72f3dc985e5bf01e4ddd",OCKO STAR
+http://raspberrypi.lan:9981/stream/channelid/1468767903?ticket=B7FC8C09B9EBE144359C3D52989D849DFF981472&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/OCKO%20STAR%20_%20T2.png" tvg-id="09e5143906903e0919e7a216426d5603",OCKO STAR | T2
+http://raspberrypi.lan:9981/stream/channelid/957670665?ticket=8CFEEFC194E7C88A423448DCF6FB4DBA516EEC9B&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Ocko%20_%20T2.png" tvg-id="94d7139a2944fe53d0173bfab153163a",Ocko | T2
+http://raspberrypi.lan:9981/stream/channelid/437507988?ticket=F276DDC4510091E1B3DDA5C91A18560BB25FB34D&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima.png" tvg-id="3d42ecaf0f1d9a2cd6caf9c2a44083d8",Prima
+http://raspberrypi.lan:9981/stream/channelid/804012605?ticket=E180441217D85419999C62493D69273778410F16&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20%2b1%20_%20T2.png" tvg-id="198e3dff2e46fc2be478b228fb297dd6",Prima +1 | T2
+http://raspberrypi.lan:9981/stream/channelid/2134740505?ticket=8D699234B8C3438FBEE5D7110A8D6B4DCD11F6FC&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20Comedy%20Central%20_%20T2.png" tvg-id="60376ab6b4f70705af01754f35f8fdbe",Prima Comedy Central | T2
+http://raspberrypi.lan:9981/stream/channelid/912930656?ticket=3326183246848388ADD76C7230A2DA31E011853D&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20COOL.png" tvg-id="b08f49fa7596595d7108dd39b7345a5f",Prima COOL
+http://raspberrypi.lan:9981/stream/channelid/2051641264?ticket=0A9275AD5317971939757FF1A0299C125602B18C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20COOL%20_%20T2.png" tvg-id="6b63816482d1ca41f38f3c1f19c8be84",Prima COOL | T2
+http://raspberrypi.lan:9981/stream/channelid/1686201195?ticket=97EAD9E7359FAF9B14D164B2AFD9744BD680DD17&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20KRIMI.png" tvg-id="455a6c0f2d6dad7acaf624d149c880b0",Prima KRIMI
+http://raspberrypi.lan:9981/stream/channelid/258759237?ticket=2BB1CB9DA49377CBAB1E50A7B14DF4A4A48E1D11&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20KRIMI%20_%20T2.png" tvg-id="154e4c64632a61e57e1d23bc368da8dd",Prima KRIMI | T2
+http://raspberrypi.lan:9981/stream/channelid/1682722325?ticket=955505C6C6F59E2EDDCE837F1495DB2CC005E47C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20LOVE.png" tvg-id="ecc522af1cefb4745727552bff56460f",Prima LOVE
+http://raspberrypi.lan:9981/stream/channelid/790808044?ticket=663B60D8B6A8F6B12CFCD874B43A9E1B6912DD03&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20LOVE%20_%20T2.png" tvg-id="cf645f3d9e4e23b9ba2f8cb763528f1a",Prima LOVE | T2
+http://raspberrypi.lan:9981/stream/channelid/1029661903?ticket=2B42E8676B86DF9C76A7CCD0BE209E5846A4C71B&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20MAX.png" tvg-id="288f0346843a967f1d6ebdf676279073",Prima MAX
+http://raspberrypi.lan:9981/stream/channelid/1174638376?ticket=FB3CAE8354BEFA033958446DD05D3E62702C175E&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20MAX%20_%20T2.png" tvg-id="44a5c923fa21d1a704fe0f7a0e04da0e",Prima MAX | T2
+http://raspberrypi.lan:9981/stream/channelid/600417604?ticket=4CC142D44ECFFACB4E65B85FA9C1F6DD1473D2EB&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20ZOOM.png" tvg-id="dcd664006dc870db85a599b0e27f30b8",Prima ZOOM
+http://raspberrypi.lan:9981/stream/channelid/6608604?ticket=951B17E9CDFEA3704BA7C81EC5F9A4B0491C82B7&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20ZOOM%20_%20T2.png" tvg-id="80f5d1e61a21714777c01e38dbac7f8d",Prima ZOOM | T2
+http://raspberrypi.lan:9981/stream/channelid/1725035904?ticket=C75C1051A77BD3D4783CD788A38F5ECAE3E34460&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Proglas.png" tvg-id="26a3c48bb3b2a25c876af5c95fb5de11",Proglas
+http://raspberrypi.lan:9981/stream/channelid/197436198?ticket=E607A619DC835722365A487AECBFB22E2E282B25&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Proglas%20_%20T2.png" tvg-id="1ef619a93ce3f3266862e8bc7255b4dc",Proglas | T2
+http://raspberrypi.lan:9981/stream/channelid/689567262?ticket=6BC506C369333175EE297A35418C0CF13ED61587&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/RADIO%20CAS.png" tvg-id="ad32afae6e050d0e89ad0aa26f2e5f22",RADIO CAS
+http://raspberrypi.lan:9981/stream/channelid/783233709?ticket=B715015817516B513DF719A723325218AF200272&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/RADIO%20CAS%20ROCK.png" tvg-id="d3271b3dfaba49138de0dffc92e8477c",RADIO CAS ROCK
+http://raspberrypi.lan:9981/stream/channelid/1025189843?ticket=A8F71DA48962965DD78B40814CD6CFBF89E5F16A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/RADIO%20DALNICE.png" tvg-id="5d4d8d1669dfda71ab11598a0ad13885",RADIO DALNICE
+http://raspberrypi.lan:9981/stream/channelid/378359133?ticket=30D4F22F3B9AF6EAAEB0066060A978BFE4EE910C&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/REBEL2%20Slusnej%20Kanal.png" tvg-id="d919a6661a722369d016d357f414979f",REBEL2 Slusnej Kanal
+http://raspberrypi.lan:9981/stream/channelid/1722161625?ticket=C1B39AAB205C47F87EA8909FFB7FDB133227E568&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Retro%20Music%20TV.png" tvg-id="6883d25e61b38ab6917ef7eec7b86c43",Retro Music TV
+http://raspberrypi.lan:9981/stream/channelid/1590854504?ticket=4F7B66BD0A01DF6A3AC1A26551A15C143FEF4966&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Retro%20Music%20TV%20_%20T2.png" tvg-id="a447c24f4fda4c39b20ed005040beda7",Retro Music TV | T2
+http://raspberrypi.lan:9981/stream/channelid/1338132388?ticket=45DC85FDC01DBF4690AB16E173541A8275ECA14D&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Seznam.cz%20TV.png" tvg-id="8f0de309b08db93f88d9350bd3d1f470",Seznam.cz TV
+http://raspberrypi.lan:9981/stream/channelid/165875087?ticket=1F9ED80DF503506D165BD2157E1CAFE5625AFB32&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Seznam.cz%20TV%20_%20P.png" tvg-id="cbc7c5a97076686b6bfb1c8f7d2348a7",Seznam.cz TV | P
+http://raspberrypi.lan:9981/stream/channelid/700827595?ticket=D57BA495A239ACF86AEE0018D2F8E1AAA05E3FCE&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Slagr%202.png" tvg-id="9e427e7ca6c95655f0a52cd77595ab99",Slagr 2
+http://raspberrypi.lan:9981/stream/channelid/2088649374?ticket=13952D821E8E1995CA5690EC458A76EFF35ED1AF&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Slagr%202%20_%20P.png" tvg-id="b554a7fcf13a08621f80f33ddf613ce1",Slagr 2 | P
+http://raspberrypi.lan:9981/stream/channelid/2091340981?ticket=633B812446A7CF37BE5351DEE47CCC924D174582&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Slagr%20TV.png" tvg-id="59232fc98f97432d50bf6579ded1111e",Slagr TV
+http://raspberrypi.lan:9981/stream/channelid/1227826009?ticket=37EAEA321697B45E6CE7601CE12A578B8FA23234&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Slagr%20TV%20_%20P.png" tvg-id="c3bbfc4ac4b4a993dea64e798662d86c",Slagr TV | P
+http://raspberrypi.lan:9981/stream/channelid/1258077123?ticket=B6367B6954D4BBED5EBAAD58D68C181706133FBB&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Televize%20pres%20antenu.png" tvg-id="d2d0ce7c2cadff5739c70eafe75d42f0",Televize pres antenu
+http://raspberrypi.lan:9981/stream/channelid/2093928658?ticket=F44991A307E5682F31C154724B0512608A229ED0&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/TV%20REBEL%20_%20T2.png" tvg-id="ff80b88aa1d4037782889704e95ca692",TV REBEL | T2
+http://raspberrypi.lan:9981/stream/channelid/179863807?ticket=72AC82F0C2AC5493986A2B55850D3059A80C6E9B&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/TV%20RELAX%20_%20T2.png" tvg-id="925e80745f0ab53dea56de4662b2b502",TV RELAX | T2
+http://raspberrypi.lan:9981/stream/channelid/1954569874?ticket=E53F50C74911B934264FAEF857CDE2EC3A57A23B&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/TV%20ZAK%20_%20T2.png" tvg-id="fd47a46b306ed8e71d13336d8347ed75",TV ZAK | T2
+http://raspberrypi.lan:9981/stream/channelid/1805928445?ticket=3F832386656B88EE05FEFA11385496AE3037E7C5&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/V1%20_%20T2.png" tvg-id="7af841c789341eaf9a6d9b1ce762e90e",V1 | T2
+http://raspberrypi.lan:9981/stream/channelid/1195505786?ticket=72096C857989AA70CF6D0134A65D90483E8F4A3A&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%201%20HD%20T2.png" tvg-id="1183b01d088e63f3c86ac8bba5d0b9b7",CT 1 HD T2
+http://raspberrypi.lan:9981/stream/channelid/498107153?ticket=BC913592B4C05C603BC85696BC0C005BA20F51D6&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/ct1.png" tvg-id="75784bd1cced36ae1798db07341dab5f",CT 1 SM HD T2
+http://raspberrypi.lan:9981/stream/channelid/1363900533?ticket=B9835B57CE88D8DEBAC0FDB69CD4460F9EC0FDA0&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%202.png" tvg-id="af18359d47c58d78381da0e5668afc47",CT 2
+http://raspberrypi.lan:9981/stream/channelid/490018991?ticket=12692447AF859A7A4449788A071180D415170203&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%202%20HD%20T2.png" tvg-id="44da07fbc6d1c3846a5bd524bf6b846a",CT 2 HD T2
+http://raspberrypi.lan:9981/stream/channelid/2064112196?ticket=B7C7CAD248FB8DB402AE1D99990F31D09734F2E8&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Prima%20_%20T2.png" tvg-id="3d1f12173e5c40fa7c463b668fefd366",Prima | T2
+http://raspberrypi.lan:9981/stream/channelid/387063613?ticket=14015D100219BB5B0AFFD9CE332CF847FE32CDD3&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%2024%20HD%20T2.png" tvg-id="a63b4568b91d88a3179cca2e56a022ca",CT 24 HD T2
+http://raspberrypi.lan:9981/stream/channelid/1749367718?ticket=DE53C5A4B4D9678E257B682FE8A2143FD84DA0A1&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%20sport.png" tvg-id="226ab6e40488722542bd7db96120061f",CT sport
+http://raspberrypi.lan:9981/stream/channelid/1689676322?ticket=A09D0028024480EA441EE75D6E58D09C69CD652D&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/CT%20sport%20HD%20T2.png" tvg-id="5e4bac9682b4ec4e59c167a04eed84c5",CT sport HD T2
+http://raspberrypi.lan:9981/stream/channelid/380390238?ticket=9EBE77E2F229F75D1CFD481583BDD712C718E2FF&profile=pass
+#EXTINF:-1 logo="https://marhycz.github.io/picons/1024/Sport%205.png" tvg-id="acf63b4ec142f31f2743aa84b92a1a4d",Sport 5
+http://raspberrypi.lan:9981/stream/channelid/1312552620?ticket=077E0A2AF1992728AC2BD5DB8A92C7787CF2A24E&profile=pass
